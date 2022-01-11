@@ -15,4 +15,9 @@ New Security patch ()
 //This is new security patch
 }
 
+Feature 2 ()
+{
+// Added feature 2
+}
+
 }
