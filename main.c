@@ -18,6 +18,9 @@ New Security patch ()
 Feature 1 ()
 {
 // added feature 1
+Feature 2 ()
+{
+// Added feature 2
 }
 
 }
